@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "client\\client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UrlShortenerService\\UrlShortenerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UrlShortenerGateway\\UrlShortenerGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
