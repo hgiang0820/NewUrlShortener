@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|solutionrelative:client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|solutionrelative:client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenerservice\\controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|solutionrelative:client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenergateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenergateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|solutionrelative:client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenergateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenergateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAFD298B-4420-42DB-A440-E2BA6E154C2E}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80A213FF-BD87-4F39-9BE4-1BE51FC7C0C9}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\client\\client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenerservice\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCEA3B49-ED38-47E3-918D-114A39301D5E}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\amdurlshortener\\urlshortenerservice\\migrations\\20241210012513_url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "client\\src\\App.vue",
               "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\client\\src\\App.vue",
               "RelativeToolTip": "client\\src\\App.vue",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAQwIMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2024-12-10T01:50:35.937Z",
               "IsPinned": true,
@@ -80,17 +80,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "api.js",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\client\\src\\services\\api.js",
               "RelativeDocumentMoniker": "client\\src\\services\\api.js",
               "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\client\\src\\services\\api.js",
               "RelativeToolTip": "client\\src\\services\\api.js",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-12-10T01:56:07.041Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -106,20 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Program.cs",
-              "RelativeDocumentMoniker": "UrlShortenerService\\Program.cs",
-              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Program.cs",
-              "RelativeToolTip": "UrlShortenerService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T03:25:32.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\client\\src\\main.js",
               "RelativeDocumentMoniker": "client\\src\\main.js",
@@ -127,25 +113,23 @@
               "RelativeToolTip": "client\\src\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-10T01:52:46.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:52:46.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ocelot.json",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerGateway\\ocelot.json",
               "RelativeDocumentMoniker": "UrlShortenerGateway\\ocelot.json",
               "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerGateway\\ocelot.json",
               "RelativeToolTip": "UrlShortenerGateway\\ocelot.json",
-              "ViewState": "AgIAACgAAAAAAAAAAAAIwDYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T01:30:15.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:30:15.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UrlShortenerGateway\\Properties\\launchSettings.json",
@@ -153,8 +137,7 @@
               "RelativeToolTip": "UrlShortenerGateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T01:28:02.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:28:02.281Z"
             },
             {
               "$type": "Document",
@@ -164,27 +147,49 @@
               "RelativeDocumentMoniker": "UrlShortenerService\\Controllers\\UrlsController.cs",
               "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Controllers\\UrlsController.cs",
               "RelativeToolTip": "UrlShortenerService\\Controllers\\UrlsController.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAA6wJYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAwFwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T01:24:04.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:24:04.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "client",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Program.cs",
+              "RelativeToolTip": "UrlShortenerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:25:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerGateway\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortenerGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerGateway\\Program.cs",
+              "RelativeToolTip": "UrlShortenerGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:43:58.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "client.esproj",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\client\\client.esproj",
               "RelativeDocumentMoniker": "client\\client.esproj",
               "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\client\\client.esproj",
               "RelativeToolTip": "client\\client.esproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-10T01:55:30.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:55:30.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerGateway\\appsettings.json",
               "RelativeDocumentMoniker": "UrlShortenerGateway\\appsettings.json",
@@ -192,12 +197,11 @@
               "RelativeToolTip": "UrlShortenerGateway\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T01:34:32.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:34:32.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UrlShortenerService\\Properties\\launchSettings.json",
@@ -205,8 +209,7 @@
               "RelativeToolTip": "UrlShortenerService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T01:25:42.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:25:42.303Z"
             },
             {
               "$type": "Document",
@@ -218,12 +221,11 @@
               "RelativeToolTip": "UrlShortenerService\\Migrations\\20241210012513_url.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T01:25:13.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:25:13.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\appsettings.json",
               "RelativeDocumentMoniker": "UrlShortenerService\\appsettings.json",
@@ -231,21 +233,7 @@
               "RelativeToolTip": "UrlShortenerService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T01:24:18.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Url.cs",
-              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Models\\Url.cs",
-              "RelativeDocumentMoniker": "UrlShortenerService\\Models\\Url.cs",
-              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\AMDUrlShortener\\UrlShortenerService\\Models\\Url.cs",
-              "RelativeToolTip": "UrlShortenerService\\Models\\Url.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:35:34.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T01:24:18.521Z"
             }
           ]
         }

@@ -53,7 +53,7 @@
         },
         {
             "UpstreamPathTemplate": "/{shortCode}",
-            "UpstreamHttpMethod": [ "Delete" ],
+            "UpstreamHttpMethod": [ "Get" ],
             "DownstreamPathTemplate": "/api/Urls/redirect/{shortCode}",
             "DownstreamScheme": "https",
             "DownstreamHostAndPorts": [

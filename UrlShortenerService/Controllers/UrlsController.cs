@@ -60,7 +60,7 @@ namespace UrlShortenerService.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!UrlExists(id))
+                if (!UrlExistsId(id))
                 {
                     return NotFound();
                 }
@@ -76,7 +76,10 @@ namespace UrlShortenerService.Controllers
         {
             public string originalUrl { get; set; }
         }
-
+        private string GenerateShortCode()
+        {
+            return Guid.NewGuid().ToString().Substring(0, 6);
+        }
         // POST: api/Urls
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
@@ -87,6 +90,10 @@ namespace UrlShortenerService.Controllers
                 return BadRequest("Original url cannot be null or empty.");
             }
 
+            if (UrlExistsUrl(request.originalUrl))
+            {
+                return BadRequest("Original url is existed");
+            }
 
             var new_url = new Url()
             {
@@ -98,12 +105,9 @@ namespace UrlShortenerService.Controllers
             _context.Url.Add(new_url);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetUrl", new { id = new_url.Id }, new_url.ShortCode);
+            return CreatedAtAction("GetUrl", new { id = new_url.Id }, new_url);
         }
-        private string GenerateShortCode()
-        {
-            return Guid.NewGuid().ToString().Substring(0, 6);
-        }
+        
 
         // DELETE: api/Urls/5
         [HttpDelete("{id}")]
@@ -121,11 +125,15 @@ namespace UrlShortenerService.Controllers
             return NoContent();
         }
 
-        private bool UrlExists(int id)
+        private bool UrlExistsUrl(string url)
+        {
+            return _context.Url.Any(e => e.OriginalUrl == url);
+        }
+        private bool UrlExistsId(int id)
         {
             return _context.Url.Any(e => e.Id == id);
         }
-        
+
         // CHECK LAI
         [HttpGet("redirect/{shortCode}")]
         public async Task<IActionResult> GetOriginalLink(string shortCode)

@@ -15,6 +15,7 @@ export const shortenUrl = async (originalUrl) => {
     return response.data;
   } catch (error) {
     console.error("Error shortening URL:", error);
+    alert("Error!")
     throw error;
   }
 };
@@ -23,8 +24,8 @@ export const shortenUrl = async (originalUrl) => {
 // Fetch all URLs (Get request to /getUrl)
 export const fetchUrls = async () => {
   try {
-    const response = await apiClient.get("/getUrl"); // Correct path to match gateway
-    return response.data; // Ensure it returns the full list of URLs
+    const response = await apiClient.get("/getUrl"); 
+    return response.data; 
   } catch (error) {
     console.error("Error fetching URLs:", error);
     throw error;
@@ -34,7 +35,7 @@ export const fetchUrls = async () => {
 // Delete a URL by ID (Delete request to /deleteUrl/{id})
 export const deleteUrl = async (id) => {
   try {
-    await apiClient.delete(`/deleteUrl/${id}`); // Correct path to match gateway
+    await apiClient.delete(`/deleteUrl/${id}`); 
   } catch (error) {
     console.error("Error deleting URL:", error);
     throw error;

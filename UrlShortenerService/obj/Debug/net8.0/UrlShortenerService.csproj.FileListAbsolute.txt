@@ -294,3 +294,4 @@ C:\Users\Huong Giang\Documents\AMD\AMDUrlShortener\UrlShortenerService\bin\Debug
 C:\Users\Huong Giang\Documents\AMD\AMDUrlShortener\UrlShortenerService\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
 C:\Users\Huong Giang\Documents\AMD\AMDUrlShortener\UrlShortenerService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\Huong Giang\Documents\AMD\AMDUrlShortener\UrlShortenerService\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Huong Giang\Documents\AMD\AMDUrlShortener\UrlShortenerService\obj\Debug\net8.0\UrlShortenerService.sourcelink.json

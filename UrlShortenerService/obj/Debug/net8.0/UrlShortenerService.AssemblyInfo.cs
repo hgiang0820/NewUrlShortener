@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrlShortenerService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a50cf4175a640d405dfbc13de207076faf2fce8")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrlShortenerService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrlShortenerService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

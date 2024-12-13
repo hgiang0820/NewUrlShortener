@@ -8,11 +8,11 @@
       },
       {
         "Path": "UrlShortenerService\\UrlShortenerService.csproj",
-        "Action": "Start"
+        "Action": "StartWithoutDebugging"
       },
       {
         "Path": "UrlShortenerGateway\\UrlShortenerGateway.csproj",
-        "Action": "Start"
+        "Action": "StartWithoutDebugging"
       }
     ]
   }

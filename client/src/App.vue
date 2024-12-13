@@ -24,18 +24,21 @@
 
       <!-- URL List -->
       <div class="url-list">
-        <h3 class="section-title">URL List</h3>
+        <h3 class="section-title">URL List ({{urlList.length}})</h3>
         <table>
           <thead>
             <tr>
+              <th class="order-column">Order</th>
               <th class="original-url-column">Original URL</th>
               <th class="short-code-column">Short Code</th>
               <th class="created-at-column">Created At</th>
               <th class="action-column">Action</th>
+
             </tr>
           </thead>
           <tbody>
-            <tr v-for="url in urlList" :key="url.id">
+            <tr v-for="(url, index)  in urlList" :key="url.id">
+              <td > {{index +1}} </td>
               <td class="original-url-column">{{ url.originalUrl }}</td>
               <td>{{ url.shortCode }}</td>
               <td>{{ url.createdAt }}</td>
@@ -79,7 +82,8 @@
         try {
           console.log("Sending URL:", this.originalUrl);
           const data = await shortenUrl(this.originalUrl); // Adjusted for updated API
-          this.shortUrl = data;
+          this.shortUrl = data.shortCode;
+
           console.log("API Response:", data);
           this.fetchAllUrls(); // Refresh list
           this.show = true;
@@ -447,6 +451,10 @@
   }
   .action-column {
     width: 100px;
+    word-wrap: break-word;
+  }
+  .order-column {
+    width: 50px;
     word-wrap: break-word;
   }
 
